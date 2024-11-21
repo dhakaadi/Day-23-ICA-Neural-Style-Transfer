@@ -13,3 +13,6 @@
 - For the rest of the parameters, use the values defined in cells above.
 - Do not display intermediate images,
 - Save the final style-transferred image.
+
+  
+![Screenshot 2024-11-21 125550](https://github.com/user-attachments/assets/57bacce1-2889-4273-81da-2eedfcbaabac)
